@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  servings: 1
+  cookie_time: 1
+  calories: 1
+
+two:
+  type: 
+  servings: 1
+  cookie_time: 1
+  calories: 1
